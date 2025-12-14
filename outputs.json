@@ -1,0 +1,127 @@
+/*Sample chat conversation - 1*/
+{
+  "relevance_score": 0.718,
+  "hallucination_rate": 0.67,
+  "hallucinated_claims": [
+    {
+      "claim": "Medications would typically cost about Rs 1,45,000 more, and embryo freezing and storage are additional",
+      "similarity": 0.522
+    },
+    {
+      "claim": "For a specific quotation based on your individual needs, it's best to [book a consultation call](",
+      "similarity": 0.248
+    }
+  ],
+  "reliability_score": 0.524,
+  "latency_seconds": 1.021,
+  "token_usage": {
+    "prompt_tokens": 1408,
+    "completion_tokens": 48
+  },
+  "estimated_cost_usd": 0.002912
+}
+
+/* Sample chat conversation - 2*/
+
+{
+  "relevance_score": 0.343,
+  "hallucination_rate": 0.86,
+  "hallucinated_claims": [
+    {
+      "claim": "I understand your concern about the long-term health of a baby conceived through donor eggs",
+      "similarity": 0.627
+    },
+    {
+      "claim": "It's natural to wonder about potential risks",
+      "similarity": 0.211
+    },
+    {
+      "claim": "We do genetic screening, along with taking a detailed family history of the donor to determine the presence of any diseases that may be transmitted to the unborn child",
+      "similarity": 0.497
+    },
+    {
+      "claim": "We do genetic screening, along with taking a detailed family history of the donor to determine the presence of any diseases that may be transmitted to the unborn child",
+      "similarity": 0.497
+    },
+    {
+      "claim": "This helps ensure the health of the eggs used in the IVF cycle",
+      "similarity": 0.615
+    },
+    {
+      "claim": "Also, we only use frozen eggs in our clinic to prevent the inadvertent transmission of HIV/AIDS through IVF",
+      "similarity": 0.526
+    },
+    {
+      "claim": "Do you have any questions about the legal contracts involved in donor egg IVF?",
+      "similarity": 0.6
+    {
+      "claim": "This helps ensure the health of the eggs used in the IVF cycle",
+      "similarity": 0.615
+    },
+    {
+      "claim": "Also, we only use frozen eggs in our clinic to prevent the inadvertent transmission of HIV/AIDS through IVF",
+      "similarity": 0.526
+    },
+    {
+      "claim": "Do you have any questions about the legal contracts involved in donor egg IVF?",
+      "similarity": 0.6
+    }
+    },
+    {
+      "claim": "Also, we only use frozen eggs in our clinic to prevent the inadvertent transmission of HIV/AIDS through IVF",
+      "similarity": 0.526
+    },
+    {
+      "claim": "Do you have any questions about the legal contracts involved in donor egg IVF?",
+      "similarity": 0.6
+    }
+    {
+      "claim": "Also, we only use frozen eggs in our clinic to prevent the inadvertent transmission of HIV/AIDS through IVF",
+      "similarity": 0.526
+    },
+    {
+      "claim": "Do you have any questions about the legal contracts involved in donor egg IVF?",
+      "similarity": 0.6
+    }
+      "claim": "Also, we only use frozen eggs in our clinic to prevent the inadvertent transmission of HIV/AIDS through IVF",
+      "similarity": 0.526
+    },
+    {
+      "claim": "Do you have any questions about the legal contracts involved in donor egg IVF?",
+      "similarity": 0.6
+    }
+    },
+    {
+      "claim": "Do you have any questions about the legal contracts involved in donor egg IVF?",
+      "similarity": 0.6
+    }
+      "claim": "Do you have any questions about the legal contracts involved in donor egg IVF?",
+      "similarity": 0.6
+    }
+  ],
+  "reliability_score": 0.242,
+    }
+  ],
+  "reliability_score": 0.242,
+  ],
+  "reliability_score": 0.242,
+  "reliability_score": 0.242,
+  "latency_seconds": 0.531,
+  "token_usage": {
+    "prompt_tokens": 1840,
+  "latency_seconds": 0.531,
+  "token_usage": {
+    "prompt_tokens": 1840,
+  "token_usage": {
+    "prompt_tokens": 1840,
+    "completion_tokens": 114
+    "prompt_tokens": 1840,
+    "completion_tokens": 114
+    "completion_tokens": 114
+  },
+  "estimated_cost_usd": 0.003908
+  },
+  },
+  "estimated_cost_usd": 0.003908
+  "estimated_cost_usd": 0.003908
+}
